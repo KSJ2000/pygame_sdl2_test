@@ -30,6 +30,7 @@ import os
 import platform
 import shutil
 import sys
+import sysconfig
 
 
 def setup_env(name):
